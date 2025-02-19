@@ -24,15 +24,12 @@ def get_link(url):
     s = requests.Session()
     response = s.get(url=url, headers=headers)
 
-    data = response.json()
-    folders = data.get('folders')
-
-    print(folders)
+    resp = response.json()
+    link = resp["data"]["folders"][2]['files'][0]
+    print(link.get('src'))
 
 
 def main():
-    #get_page(url="https://collegetsaritsyno.mskobr.ru/uchashimsya/raspisanie-kanikuly")
-    #get_json(url="https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190")
     get_link("https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190")
 
 if __name__ == "__main__":
