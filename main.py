@@ -1,5 +1,7 @@
 import requests
 import json
+import datetime
+from datetime import timedelta
 
 headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,13 +22,17 @@ def get_json(url):
     with open("result.json", "w") as file:
         json.dump(response.json(), file, indent=4, ensure_ascii=False)
 
-def get_link(url):
+def get_link(url, course = 0):
     s = requests.Session()
     response = s.get(url=url, headers=headers)
 
     resp = response.json()
-    link = resp["data"]["folders"][2]['files'][0]
-    print(link.get('src'))
+    try:
+        for i in range(0,20):
+            link = resp["data"]["folders"][2]['files'][i]
+            print(link.get('src'))
+    except:
+        print("there is no ", i)
 
 
 def main():
