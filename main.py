@@ -1,42 +1,47 @@
 import requests
-import json
-import datetime
-from datetime import timedelta
+from datetime import datetime, date
 
 headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0"
 }
 
-def get_page(url):
-    s = requests.Session()
-    response = s.get(url=url, headers=headers)
+url = "https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190"
 
-    with open("index.html", "w") as file:
-        file.write(response.text)
 
-def get_json(url):
-    s = requests.Session()
-    response = s.get(url=url, headers=headers)
-
-    with open("result.json", "w") as file:
-        json.dump(response.json(), file, indent=4, ensure_ascii=False)
-
-def get_link(url, course = 0):
+def get_link(url, course, week):
     s = requests.Session()
     response = s.get(url=url, headers=headers)
 
     resp = response.json()
     try:
-        for i in range(0,20):
-            link = resp["data"]["folders"][2]['files'][i]
-            print(link.get('src'))
-    except:
-        print("there is no ", i)
+        
+        req = resp["data"]["folders"][2]['files'][course + 4*week]
+        
+        altName = req.get('altName')
+        title = req.get('title')
+        link = "https://collegetsaritsyno.mskobr.ru"+req.get('src')
+
+        if altName[:10] == 'raspisanie':
+            date_diff = get_date_diff(title[-10:])
+            return link
+        else:
+            return None
+
+    except Exception as ex:
+        print(ex)
+        return None
 
 
-def main():
-    get_link("https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190")
+def get_date_diff(getted_date):
+    try:
+        date_format = '%d.%m.%Y'
 
-if __name__ == "__main__":
-    main()
+        today = date.today()
+        last_day = datetime.strptime(getted_date, date_format).date()
+
+        delta = last_day - today
+        return delta.days
+    except Exception as ex:
+        print(ex)
+        return None
