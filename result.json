@@ -1,0 +1,1324 @@
+{
+    "data": {
+        "folders": [
+            {
+                "id": 1066,
+                "ord": 2,
+                "title": "ОГРБ (Шипиловский пр. 37/1)",
+                "altName": "ogrb-shipilovskiy-pr-37-1",
+                "pageId": 30190,
+                "folders": [
+                    {
+                        "id": 1804,
+                        "ord": 1,
+                        "title": "09-2024",
+                        "altName": "09-2024",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 20848,
+                                "title": "Расписание 02-07.09.2024 ",
+                                "src": "/attach_files/upload_users_files/66d057c70bc75.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-02-07-09-2024",
+                                "rel": 30190,
+                                "ord": 1
+                            },
+                            {
+                                "id": 20851,
+                                "title": "Преподаватели 02-07.09.2024",
+                                "src": "/attach_files/upload_users_files/66d057e22c534.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-02-07-09-2024",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 20863,
+                                "title": "Изменения 3-6.09",
+                                "src": "/attach_files/upload_users_files/66d58085543c3.pdf",
+                                "ext": "pdf",
+                                "altName": "izmeneniya-3-6-09",
+                                "rel": 30190,
+                                "ord": 3
+                            },
+                            {
+                                "id": 20890,
+                                "title": "Расписание с 09-14.09.2024",
+                                "src": "/attach_files/upload_users_files/66d96f892f183.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-09-14-09-2024",
+                                "rel": 30190,
+                                "ord": 4
+                            },
+                            {
+                                "id": 20893,
+                                "title": "Преподаватели с 09-14.09.2024",
+                                "src": "/attach_files/upload_users_files/66d96f9a42b62.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-09-14-09-2024",
+                                "rel": 30190,
+                                "ord": 5
+                            },
+                            {
+                                "id": 20914,
+                                "title": "Изменение на 10.09.2024",
+                                "src": "/attach_files/upload_users_files/66def3e38f96d.docx",
+                                "ext": "docx",
+                                "altName": "izmenenie-na-10-09-2024",
+                                "rel": 30190,
+                                "ord": 6
+                            },
+                            {
+                                "id": 20923,
+                                "title": "Расписание с 16-21.09",
+                                "src": "/attach_files/upload_users_files/66e156e00f8ee.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-16-21-09",
+                                "rel": 30190,
+                                "ord": 7
+                            },
+                            {
+                                "id": 20926,
+                                "title": "Преподаватели 16-21.09",
+                                "src": "/attach_files/upload_users_files/66e156f9ead82.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-16-21-09",
+                                "rel": 30190,
+                                "ord": 8
+                            },
+                            {
+                                "id": 20929,
+                                "title": "Расписание с 23-28.09",
+                                "src": "/attach_files/upload_users_files/66e1a4055a825.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-23-28-09",
+                                "rel": 30190,
+                                "ord": 9
+                            },
+                            {
+                                "id": 20932,
+                                "title": "Преподаватели с 23-28.09",
+                                "src": "/attach_files/upload_users_files/66e1a4183289d.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-23-28-09",
+                                "rel": 30190,
+                                "ord": 10
+                            },
+                            {
+                                "id": 20974,
+                                "title": "Расписание с 30.09-05.10",
+                                "src": "/attach_files/upload_users_files/66ebd94a4f7ed.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-30-09-05-10",
+                                "rel": 30190,
+                                "ord": 11
+                            },
+                            {
+                                "id": 20977,
+                                "title": "Преподаватели 30.09-05.10",
+                                "src": "/attach_files/upload_users_files/66ebd97c9755a.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-30-09-05-10",
+                                "rel": 30190,
+                                "ord": 12
+                            },
+                            {
+                                "id": 20980,
+                                "title": "Изменения на 23-24.09",
+                                "src": "/attach_files/upload_users_files/66ec0c23233e7.pdf",
+                                "ext": "pdf",
+                                "altName": "izmeneniya-na-23-24-09",
+                                "rel": 30190,
+                                "ord": 13
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1810,
+                        "ord": 2,
+                        "title": "10-2024",
+                        "altName": "10-2024",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 21181,
+                                "title": "замены на 03.10.",
+                                "src": "/attach_files/upload_users_files/67090ce59b3fb.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-03-10",
+                                "rel": 30190,
+                                "ord": 1
+                            },
+                            {
+                                "id": 21031,
+                                "title": "расписание с 07.10-12.10",
+                                "src": "/attach_files/upload_users_files/66f517cade222.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-07-10-12-10",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 21034,
+                                "title": "преподаватели  07.10-12.10",
+                                "src": "/attach_files/upload_users_files/66f517e148ff0.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-07-10-12-10",
+                                "rel": 30190,
+                                "ord": 3
+                            },
+                            {
+                                "id": 21142,
+                                "title": "Расписание с 14.10.-18.10.",
+                                "src": "/attach_files/upload_users_files/66fe725a30017.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-14-10--18-10",
+                                "rel": 30190,
+                                "ord": 4
+                            },
+                            {
+                                "id": 21145,
+                                "title": "Преподаватели 14-18.10",
+                                "src": "/attach_files/upload_users_files/66fe7283818bb.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-14-18-10",
+                                "rel": 30190,
+                                "ord": 5
+                            },
+                            {
+                                "id": 21151,
+                                "title": "изменения в расписании на 08.10.2024 г",
+                                "src": "/attach_files/upload_users_files/670388ae3229e.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-na-08-10-2024-g",
+                                "rel": 30190,
+                                "ord": 6
+                            },
+                            {
+                                "id": 21163,
+                                "title": "10-10 ИЗМЕНЕНИЯ",
+                                "src": "/attach_files/upload_users_files/670672a7992fc.docx",
+                                "ext": "docx",
+                                "altName": "10-10-izmeneniya",
+                                "rel": 30190,
+                                "ord": 7
+                            },
+                            {
+                                "id": 21172,
+                                "title": "расписание с 21-25.10.2024",
+                                "src": "/attach_files/upload_users_files/67078b191a32d.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-21-25-10-2024",
+                                "rel": 30190,
+                                "ord": 8
+                            },
+                            {
+                                "id": 21175,
+                                "title": "преподаватели с 21-25.10.2024",
+                                "src": "/attach_files/upload_users_files/67078b36a2445.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-21-25-10-2024",
+                                "rel": 30190,
+                                "ord": 9
+                            },
+                            {
+                                "id": 21253,
+                                "title": "Расписание с 28.10 - 02.11.2024 г",
+                                "src": "/attach_files/upload_users_files/6710e4f320682.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-28-10---02-11-2024-g",
+                                "rel": 30190,
+                                "ord": 10
+                            },
+                            {
+                                "id": 21256,
+                                "title": " Преподаватели 28.10 - 02.11.2024 г",
+                                "src": "/attach_files/upload_users_files/6710e5a802361.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-28-10---02-11-2024-g",
+                                "rel": 30190,
+                                "ord": 11
+                            },
+                            {
+                                "id": 21262,
+                                "title": "Замены на 22.10.2024 г",
+                                "src": "/attach_files/upload_users_files/6716543d454b8.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-22-10-2024-g",
+                                "rel": 30190,
+                                "ord": 12
+                            },
+                            {
+                                "id": 21265,
+                                "title": "Замены на 23.10.2024 г",
+                                "src": "/attach_files/upload_users_files/67165492f1185.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-23-10-2024-g",
+                                "rel": 30190,
+                                "ord": 13
+                            },
+                            {
+                                "id": 21268,
+                                "title": "Замены на 24.10.2024 г",
+                                "src": "/attach_files/upload_users_files/671654c3a1711.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-24-10-2024-g",
+                                "rel": 30190,
+                                "ord": 14
+                            },
+                            {
+                                "id": 21271,
+                                "title": "Замены на 25.10.2024 г",
+                                "src": "/attach_files/upload_users_files/671654cc0bc3b.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-25-10-2024-g",
+                                "rel": 30190,
+                                "ord": 15
+                            },
+                            {
+                                "id": 21346,
+                                "title": "Замены на 26.10",
+                                "src": "/attach_files/upload_users_files/67173c3399803.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-26-10",
+                                "rel": 30190,
+                                "ord": 16
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1813,
+                        "ord": 3,
+                        "title": "11-2024",
+                        "altName": "11-2024",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 21394,
+                                "title": "Преподаватели 04-08.11.2024",
+                                "src": "/attach_files/upload_users_files/6718f483bad5b.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-04-08-11-2024",
+                                "rel": 30190,
+                                "ord": 1
+                            },
+                            {
+                                "id": 21391,
+                                "title": "Расписание 04-08.11.2024",
+                                "src": "/attach_files/upload_users_files/6718f44262fb9.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-04-08-11-2024",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 21505,
+                                "title": "изменения  с 05.11.2024 г-08.11.2024",
+                                "src": "/attach_files/upload_users_files/672202f3768b8.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-s-05-11-2024-g-08-11-2024",
+                                "rel": 30190,
+                                "ord": 3
+                            },
+                            {
+                                "id": 21508,
+                                "title": "изменения с 05.11.2024 г-08.11.2024",
+                                "src": "/attach_files/upload_users_files/6722031db45e6.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-s-05-11-2024-g-08-11-2024",
+                                "rel": 30190,
+                                "ord": 4
+                            },
+                            {
+                                "id": 21415,
+                                "title": "Расписание 11-15.11.2024",
+                                "src": "/attach_files/upload_users_files/671b5b164e54d.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-11-15-11-2024",
+                                "rel": 30190,
+                                "ord": 5
+                            },
+                            {
+                                "id": 21421,
+                                "title": "Расписание с 11.11.2024 г-15.11.2024",
+                                "src": "/attach_files/upload_users_files/671b62a0e78f1.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-11-11-2024-g-15-11-2024",
+                                "rel": 30190,
+                                "ord": 6
+                            },
+                            {
+                                "id": 21424,
+                                "title": "Преподаватели с 11.11.2024 г-15.11.2024",
+                                "src": "/attach_files/upload_users_files/671b62b15e4f3.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-11-11-2024-g-15-11-2024",
+                                "rel": 30190,
+                                "ord": 7
+                            },
+                            {
+                                "id": 21418,
+                                "title": " Преподаватели 11-15.11.2024",
+                                "src": "/attach_files/upload_users_files/671b5b2f477e2.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-11-15-11-2024",
+                                "rel": 30190,
+                                "ord": 8
+                            },
+                            {
+                                "id": 21520,
+                                "title": "расписание с 18.11.2024 г-22.11.2024",
+                                "src": "/attach_files/upload_users_files/67233b160a1ee.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-18-11-2024-g-22-11-2024",
+                                "rel": 30190,
+                                "ord": 9
+                            },
+                            {
+                                "id": 21523,
+                                "title": "преподаватели с 18.11.2024 г-22.11.2024",
+                                "src": "/attach_files/upload_users_files/67233b2b17696.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-18-11-2024-g-22-11-2024",
+                                "rel": 30190,
+                                "ord": 10
+                            },
+                            {
+                                "id": 21604,
+                                "title": "расписание с 25.11.2024 г-29.11.2024",
+                                "src": "/attach_files/upload_users_files/672dc651cbe7b.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-25-11-2024-g-29-11-2024",
+                                "rel": 30190,
+                                "ord": 11
+                            },
+                            {
+                                "id": 21610,
+                                "title": "изменения в расписании на 11 и 12 ноября",
+                                "src": "/attach_files/upload_users_files/6731b943b62b6.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-na-11-i-12-noyabrya",
+                                "rel": 30190,
+                                "ord": 12
+                            },
+                            {
+                                "id": 21607,
+                                "title": "Преподаватели с 25.11.2024 г-29.11.2024",
+                                "src": "/attach_files/upload_users_files/672dc689eb085.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-25-11-2024-g-29-11-2024",
+                                "rel": 30190,
+                                "ord": 13
+                            },
+                            {
+                                "id": 21775,
+                                "title": "Изменения 18.11 и 19.11 2024",
+                                "src": "/attach_files/upload_users_files/6735a43c04467.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-18-11-i-19-11-2024",
+                                "rel": 30190,
+                                "ord": 397
+                            },
+                            {
+                                "id": 21778,
+                                "title": "изменения в расписании на 18 и 19 ноября",
+                                "src": "/attach_files/upload_users_files/6735a510c21fc.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-na-18-i-19-noyabrya",
+                                "rel": 30190,
+                                "ord": 398
+                            },
+                            {
+                                "id": 21796,
+                                "title": "доп изменения с 18.11.2024 г-22.11.2024 г",
+                                "src": "/attach_files/upload_users_files/673b0330e45a4.docx",
+                                "ext": "docx",
+                                "altName": "dop-izmeneniya-s-18-11-2024-g-22-11-2024-g",
+                                "rel": 30190,
+                                "ord": 400
+                            },
+                            {
+                                "id": 21868,
+                                "title": "замены на 25 и 26 ноября",
+                                "src": "/attach_files/upload_users_files/673f0594b1703.docx",
+                                "ext": "docx",
+                                "altName": "zamenyi-na-25-i-26-noyabrya",
+                                "rel": 30190,
+                                "ord": 403
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1831,
+                        "ord": 26,
+                        "title": "12-2024",
+                        "altName": "12-2024",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 21637,
+                                "title": "Преподаватели 02-06.12.2024 ",
+                                "src": "/attach_files/upload_users_files/6731f3d46c040.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-02-06-12-2024",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 21658,
+                                "title": "расписание с 02.12.-06.12.2024",
+                                "src": "/attach_files/upload_users_files/673211f31ab43.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-02-12--06-12-2024",
+                                "rel": 30190,
+                                "ord": 3
+                            },
+                            {
+                                "id": 21661,
+                                "title": "преподаватели  с 02.12.2024 г-06.12.2024",
+                                "src": "/attach_files/upload_users_files/673212037d9f7.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-02-12-2024-g-06-12-2024",
+                                "rel": 30190,
+                                "ord": 4
+                            },
+                            {
+                                "id": 21808,
+                                "title": "расписание с 09.12.2024 г-13.12.2024",
+                                "src": "/attach_files/upload_users_files/6752f34c27f4d.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-09-12-2024-g-13-12-2024",
+                                "rel": 30190,
+                                "ord": 401
+                            },
+                            {
+                                "id": 21811,
+                                "title": "преподаватели с 09.12.2024 г-13.12.2024",
+                                "src": "/attach_files/upload_users_files/6752f342c16e4.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-09-12-2024-g-13-12-2024",
+                                "rel": 30190,
+                                "ord": 402
+                            },
+                            {
+                                "id": 21871,
+                                "title": "расписание с 16.12.2024 г-20.12.2024",
+                                "src": "/attach_files/upload_users_files/6756b7505199e.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-16-12-2024-g-20-12-2024",
+                                "rel": 30190,
+                                "ord": 404
+                            },
+                            {
+                                "id": 21874,
+                                "title": "преподаватели с 16.12.2024 г-20.12.2024",
+                                "src": "/attach_files/upload_users_files/6756b7597c40e.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-16-12-2024-g-20-12-2024",
+                                "rel": 30190,
+                                "ord": 405
+                            },
+                            {
+                                "id": 21877,
+                                "title": "расписание с 23.12.2024 г-27.12.2024 г",
+                                "src": "/attach_files/upload_users_files/6756b763ed9e1.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-23-12-2024-g-27-12-2024-g",
+                                "rel": 30190,
+                                "ord": 406
+                            },
+                            {
+                                "id": 21880,
+                                "title": "преподаватели с 23.12.2024 г-27.12.2024 г",
+                                "src": "/attach_files/upload_users_files/6756b7728a814.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-23-12-2024-g-27-12-2024-g",
+                                "rel": 30190,
+                                "ord": 407
+                            },
+                            {
+                                "id": 21958,
+                                "title": "Изменения в расписании на 2 и 3 декабря",
+                                "src": "/attach_files/upload_users_files/674843042a699.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-na-2-i-3-dekabrya",
+                                "rel": 30190,
+                                "ord": 410
+                            },
+                            {
+                                "id": 21961,
+                                "title": "изменения в расписании на 2 и 3 декабря",
+                                "src": "/attach_files/upload_users_files/67484329e536f.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-na-2-i-3-dekabrya",
+                                "rel": 30190,
+                                "ord": 411
+                            },
+                            {
+                                "id": 22060,
+                                "title": "изменения в расписании с 10.12.2024 г-13.12.2024 г",
+                                "src": "/attach_files/upload_users_files/6757f9ee7cffb.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-s-10-12-2024-g-13-12-2024-g",
+                                "rel": 30190,
+                                "ord": 418
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1861,
+                        "ord": 28,
+                        "title": "01-2025",
+                        "altName": "01-2025",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 22192,
+                                "title": "расписание с 13.01.2025 г-17.01.2025",
+                                "src": "/attach_files/upload_users_files/676bc4a823bb0.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-13-01-2025-g-17-01-2025",
+                                "rel": 30190,
+                                "ord": 422
+                            },
+                            {
+                                "id": 22195,
+                                "title": "преподаватели с 13.01.2025 г-17.01.2025",
+                                "src": "/attach_files/upload_users_files/676bc4b836959.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-13-01-2025-g-17-01-2025",
+                                "rel": 30190,
+                                "ord": 423
+                            },
+                            {
+                                "id": 22210,
+                                "title": "расписание с 20.01.2025 г-24.01.2025",
+                                "src": "/attach_files/upload_users_files/676e77072cc16.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-20-01-2025-g-24-01-2025",
+                                "rel": 30190,
+                                "ord": 424
+                            },
+                            {
+                                "id": 22213,
+                                "title": "преподаватели с 20.01.2025 г-24.01.2025",
+                                "src": "/attach_files/upload_users_files/676e77212cf55.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-20-01-2025-g-24-01-2025",
+                                "rel": 30190,
+                                "ord": 425
+                            },
+                            {
+                                "id": 22231,
+                                "title": "Расписание с 27.01.2025 г-31.01.2025 г",
+                                "src": "/attach_files/upload_users_files/6787a0442212a.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-27-01-2025-g-31-01-2025-g",
+                                "rel": 30190,
+                                "ord": 427
+                            },
+                            {
+                                "id": 22234,
+                                "title": "Преподаватели  с 27.01.2025 г-31.01.2025 г",
+                                "src": "/attach_files/upload_users_files/6787a06a183bb.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-27-01-2025-g-31-01-2025-g",
+                                "rel": 30190,
+                                "ord": 428
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1864,
+                        "ord": 29,
+                        "title": "02-2025",
+                        "altName": "02-2025",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 22255,
+                                "title": "Преподаватели с 03.02.2025 г-07.02.2025",
+                                "src": "/attach_files/upload_users_files/6788dbd8c76a8.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-03-02-2025-g-07-02-2025",
+                                "rel": 30190,
+                                "ord": 1
+                            },
+                            {
+                                "id": 22252,
+                                "title": "Расписание с 03.02.2025 г-07.02.2025",
+                                "src": "/attach_files/upload_users_files/6788dbc7e5a6c.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-03-02-2025-g-07-02-2025",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 22261,
+                                "title": "Преподаватели с 10.02.2025 г-14.02.2025",
+                                "src": "/attach_files/upload_users_files/6788f2f4cd941.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-10-02-2025-g-14-02-2025",
+                                "rel": 30190,
+                                "ord": 3
+                            },
+                            {
+                                "id": 22258,
+                                "title": "Расписание с 10.02.2025 г-14.02.2025",
+                                "src": "/attach_files/upload_users_files/6788f2e36df2e.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-10-02-2025-g-14-02-2025",
+                                "rel": 30190,
+                                "ord": 4
+                            },
+                            {
+                                "id": 22279,
+                                "title": "Расписание с 17.02.2025 г-22.02.2025",
+                                "src": "/attach_files/upload_users_files/6790bdbadb5bd.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-17-02-2025-g-22-02-2025",
+                                "rel": 30190,
+                                "ord": 5
+                            },
+                            {
+                                "id": 22282,
+                                "title": "Преподаватели с 17.02.2025 г-22.02.2025",
+                                "src": "/attach_files/upload_users_files/6790bdd4643ca.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-17-02-2025-g-22-02-2025",
+                                "rel": 30190,
+                                "ord": 6
+                            },
+                            {
+                                "id": 22291,
+                                "title": "Преподаватели с 24.02.2025г-01.03.2025",
+                                "src": "/attach_files/upload_users_files/6790ec2ebe101.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-24-02-2025g-01-03-2025",
+                                "rel": 30190,
+                                "ord": 7
+                            },
+                            {
+                                "id": 22288,
+                                "title": "Расписание с 24.02.2025г-01.03.2025",
+                                "src": "/attach_files/upload_users_files/6790ec0c410c7.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-24-02-2025g-01-03-2025",
+                                "rel": 30190,
+                                "ord": 8
+                            },
+                            {
+                                "id": 22336,
+                                "title": "Изменения в расписании с 03.02.2025 г-07.02.2025",
+                                "src": "/attach_files/upload_users_files/67a05b9c7f2dd.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-v-raspisanii-s-03-02-2025-g-07-02-2025",
+                                "rel": 30190,
+                                "ord": 443
+                            },
+                            {
+                                "id": 22372,
+                                "title": "Изменения с 10.02.2025 г-13.02.2025",
+                                "src": "/attach_files/upload_users_files/67a5ac131256e.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-s-10-02-2025-g-13-02-2025",
+                                "rel": 30190,
+                                "ord": 447
+                            },
+                            {
+                                "id": 22390,
+                                "title": "доп изменения на 14.02.2025 ",
+                                "src": "/attach_files/upload_users_files/67adad28f2f97.docx",
+                                "ext": "docx",
+                                "altName": "dop-izmeneniya-na-14-02-2025",
+                                "rel": 30190,
+                                "ord": 449
+                            },
+                            {
+                                "id": 22396,
+                                "title": "изменения с 17.02.2025 г-20.02.2025",
+                                "src": "/attach_files/upload_users_files/67aee2819d20c.docx",
+                                "ext": "docx",
+                                "altName": "izmeneniya-s-17-02-2025-g-20-02-2025",
+                                "rel": 30190,
+                                "ord": 450
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1867,
+                        "ord": 30,
+                        "title": "03-2025",
+                        "altName": "03-2025",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 22297,
+                                "title": "Преподаватели с 03.03.2025 г-07.03.2025",
+                                "src": "/attach_files/upload_users_files/6790ec6f1f17e.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-03-03-2025-g-07-03-2025",
+                                "rel": 30190,
+                                "ord": 1
+                            },
+                            {
+                                "id": 22294,
+                                "title": "Расписание с 03.03.2025 г-07.03.2025",
+                                "src": "/attach_files/upload_users_files/6790ec5f8b778.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-03-03-2025-g-07-03-2025",
+                                "rel": 30190,
+                                "ord": 2
+                            },
+                            {
+                                "id": 22300,
+                                "title": "Расписание с 10.03.2025 г-15.03.2025",
+                                "src": "/attach_files/upload_users_files/679328e41987b.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-10-03-2025-g-15-03-2025",
+                                "rel": 30190,
+                                "ord": 436
+                            },
+                            {
+                                "id": 22303,
+                                "title": "Преподаватели с 10.03.2025 г-15.03.2025",
+                                "src": "/attach_files/upload_users_files/679328f4788e7.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-10-03-2025-g-15-03-2025",
+                                "rel": 30190,
+                                "ord": 437
+                            },
+                            {
+                                "id": 22330,
+                                "title": "Расписание с 17.03.2025 г-22.03.2025",
+                                "src": "/attach_files/upload_users_files/679c8639ab02b.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-17-03-2025-g-22-03-2025",
+                                "rel": 30190,
+                                "ord": 441
+                            },
+                            {
+                                "id": 22333,
+                                "title": "Преподаватели с 17.03.2025 г-22.03.2025",
+                                "src": "/attach_files/upload_users_files/679c864c7e3f9.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-17-03-2025-g-22-03-2025",
+                                "rel": 30190,
+                                "ord": 442
+                            },
+                            {
+                                "id": 22366,
+                                "title": "Расписание с 24.03.2025 г-28.03.2025",
+                                "src": "/attach_files/upload_users_files/67a59d9c5042a.xlsx",
+                                "ext": "xlsx",
+                                "altName": "raspisanie-s-24-03-2025-g-28-03-2025",
+                                "rel": 30190,
+                                "ord": 445
+                            },
+                            {
+                                "id": 22369,
+                                "title": "Преподаватели с 24.03.2025 г-28.03.2025",
+                                "src": "/attach_files/upload_users_files/67a59dbe3c226.xlsx",
+                                "ext": "xlsx",
+                                "altName": "prepodavateli-s-24-03-2025-g-28-03-2025",
+                                "rel": 30190,
+                                "ord": 446
+                            }
+                        ]
+                    }
+                ],
+                "files": []
+            },
+            {
+                "id": 1729,
+                "ord": 21,
+                "title": "ОП (УЛ. ГЕНЕРАЛА БЕЛОВА Д.4)",
+                "altName": "op-ul-generala-belova-d-4",
+                "pageId": 30190,
+                "folders": [],
+                "files": [
+                    {
+                        "id": 20857,
+                        "title": "Расписание занятий с 02.09 по 06.09.2024",
+                        "src": "/attach_files/upload_users_files/66d1cd71a6ba6.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-02-09-po-06-09-2024",
+                        "rel": 30190,
+                        "ord": 1
+                    },
+                    {
+                        "id": 20899,
+                        "title": "Расписание занятий с 09.09 по 14.09.2024",
+                        "src": "/attach_files/upload_users_files/66d9c36681125.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-09-09-po-14-09-2024",
+                        "rel": 30190,
+                        "ord": 2
+                    },
+                    {
+                        "id": 20938,
+                        "title": "Расписание занятий с 16.09 по 21.09.2024",
+                        "src": "/attach_files/upload_users_files/66e1bcb0c56d3.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-16-09-po-21-09-2024",
+                        "rel": 30190,
+                        "ord": 3
+                    },
+                    {
+                        "id": 20947,
+                        "title": "Изменение расписания на 16.09.2024 и 17.09.2024",
+                        "src": "/attach_files/upload_users_files/66e4963e64417.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-16-09-2024-i-17-09-2024",
+                        "rel": 30190,
+                        "ord": 4
+                    },
+                    {
+                        "id": 20965,
+                        "title": "Расписание занятий с 23.09 по 28.09.2024",
+                        "src": "/attach_files/upload_users_files/66eb15f48c2d4.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-23-09-po-28-09-2024",
+                        "rel": 30190,
+                        "ord": 5
+                    },
+                    {
+                        "id": 20995,
+                        "title": "Расписание занятий с 30.09 по 05.10.2024",
+                        "src": "/attach_files/upload_users_files/66f2e8873d2a4.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-30-09-po-05-10-2024",
+                        "rel": 30190,
+                        "ord": 6
+                    },
+                    {
+                        "id": 21097,
+                        "title": "Расписание занятий с 07.10 по 12.10.2024",
+                        "src": "/attach_files/upload_users_files/66fd11495dad0.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-07-10-po-12-10-2024",
+                        "rel": 30190,
+                        "ord": 7
+                    },
+                    {
+                        "id": 21160,
+                        "title": "Расписание занятий с 14.10 по 19.10.2024",
+                        "src": "/attach_files/upload_users_files/6707a979a7986.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-14-10-po-19-10-2024",
+                        "rel": 30190,
+                        "ord": 8
+                    },
+                    {
+                        "id": 21166,
+                        "title": "Изменение расписания на 10.10.2024",
+                        "src": "/attach_files/upload_users_files/67067e831a01e.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-10-10-2024",
+                        "rel": 30190,
+                        "ord": 9
+                    },
+                    {
+                        "id": 21169,
+                        "title": "Изменение расписания на 11.10.2024",
+                        "src": "/attach_files/upload_users_files/67068fc69d427.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-11-10-2024",
+                        "rel": 30190,
+                        "ord": 10
+                    },
+                    {
+                        "id": 21211,
+                        "title": "Изменение расписания с 14.10.2024 по 18.10.2024",
+                        "src": "/attach_files/upload_users_files/670ab4df66251.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-s-14-10-2024-po-18-10-2024",
+                        "rel": 30190,
+                        "ord": 11
+                    },
+                    {
+                        "id": 21241,
+                        "title": "Расписание занятий с 21.10 по 26.10.2024",
+                        "src": "/attach_files/upload_users_files/670f89cb359a9.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-21-10-po-26-10-2024",
+                        "rel": 30190,
+                        "ord": 12
+                    },
+                    {
+                        "id": 21400,
+                        "title": "Расписание занятий с 28.10 по 02.11.2024",
+                        "src": "/attach_files/upload_users_files/671a5897571ba.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-28-10-po-02-11-2024",
+                        "rel": 30190,
+                        "ord": 13
+                    },
+                    {
+                        "id": 21529,
+                        "title": "Расписание занятий с 05.11 по 08.11.2024",
+                        "src": "/attach_files/upload_users_files/67238e70f3dd8.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-05-11-po-08-11-2024",
+                        "rel": 30190,
+                        "ord": 14
+                    },
+                    {
+                        "id": 21544,
+                        "title": "Расписание экзаменов групп ИСП-411, ИСП-421, ИСП-312-11",
+                        "src": "/attach_files/upload_users_files/672a60a27598d.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-ekzamenov-grupp-isp-411-isp-421-isp-312-11",
+                        "rel": 30190,
+                        "ord": 15
+                    },
+                    {
+                        "id": 21535,
+                        "title": "Расписание экзаменов групп МТО-411, КСК-213, КСК-213Д, КСК-114-11, КСК-312, КСК-312Д, МТО-312, ОП-312-11, ОП-411Д",
+                        "src": "/attach_files/upload_users_files/67247a1d85be1.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-ekzamenov-grupp-mto-411-ksk-213-ksk-213d-ksk-114-11-ksk-312-ksk-312d-mto-312-op-312-11-op-411d",
+                        "rel": 30190,
+                        "ord": 16
+                    },
+                    {
+                        "id": 21565,
+                        "title": "Расписание занятий с 11.11 по 15.11.2024",
+                        "src": "/attach_files/upload_users_files/672bac2e79507.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-11-11-po-15-11-2024",
+                        "rel": 30190,
+                        "ord": 396
+                    },
+                    {
+                        "id": 21784,
+                        "title": "Расписание занятий с 18.11 по 22.11.2024",
+                        "src": "/attach_files/upload_users_files/67365964bc841.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-18-11-po-22-11-2024",
+                        "rel": 30190,
+                        "ord": 399
+                    },
+                    {
+                        "id": 21883,
+                        "title": "Расписание занятий с 25.11 по 29.11.2024",
+                        "src": "/attach_files/upload_users_files/673f9c59b1417.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-25-11-po-29-11-2024",
+                        "rel": 30190,
+                        "ord": 408
+                    },
+                    {
+                        "id": 21937,
+                        "title": "Изменение расписания с 27 по 29 ноября",
+                        "src": "/attach_files/upload_users_files/67458d155da52.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-s-27-po-29-noyabrya",
+                        "rel": 30190,
+                        "ord": 409
+                    },
+                    {
+                        "id": 21967,
+                        "title": "Расписание занятий с 02.12 по 06.12.2024",
+                        "src": "/attach_files/upload_users_files/67484a5cb6f75.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-02-12-po-06-12-2024",
+                        "rel": 30190,
+                        "ord": 412
+                    },
+                    {
+                        "id": 22021,
+                        "title": "Расписание занятий с 09.12 по 13.12.2024",
+                        "src": "/attach_files/upload_users_files/67507bc30a014.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-09-12-po-13-12-2024",
+                        "rel": 30190,
+                        "ord": 413
+                    },
+                    {
+                        "id": 22051,
+                        "title": "Изменение расписания с 09 по 13 декабря",
+                        "src": "/attach_files/upload_users_files/6756b50a98943.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-s-09-po-13-dekabrya",
+                        "rel": 30190,
+                        "ord": 417
+                    },
+                    {
+                        "id": 22066,
+                        "title": "Расписание занятий с 16.12 по 20.12.2024",
+                        "src": "/attach_files/upload_users_files/675849525ad9b.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-16-12-po-20-12-2024",
+                        "rel": 30190,
+                        "ord": 419
+                    },
+                    {
+                        "id": 22141,
+                        "title": "Расписание экзаменов группы МТО-510",
+                        "src": "/attach_files/upload_users_files/676005d28eb9a.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-ekzamenov-gruppyi-mto-510",
+                        "rel": 30190,
+                        "ord": 420
+                    },
+                    {
+                        "id": 22180,
+                        "title": "Расписание занятий с 23.12 по 27.12.2024",
+                        "src": "/attach_files/upload_users_files/676405d739f45.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-23-12-po-27-12-2024",
+                        "rel": 30190,
+                        "ord": 421
+                    },
+                    {
+                        "id": 22216,
+                        "title": "Расписание занятий с 13.01 по 17.01.2025",
+                        "src": "/attach_files/upload_users_files/677fc87b09920.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-13-01-po-17-01-2025",
+                        "rel": 30190,
+                        "ord": 426
+                    },
+                    {
+                        "id": 22249,
+                        "title": "Расписание занятий с 20.01 по 24.01.2025",
+                        "src": "/attach_files/upload_users_files/6788dad924fca.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-20-01-po-24-01-2025",
+                        "rel": 30190,
+                        "ord": 429
+                    },
+                    {
+                        "id": 22273,
+                        "title": "Расписание занятий с 27.01 по 31.01.2025",
+                        "src": "/attach_files/upload_users_files/678f71c14bc5b.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-27-01-po-31-01-2025",
+                        "rel": 30190,
+                        "ord": 435
+                    },
+                    {
+                        "id": 22315,
+                        "title": "Изменение расписания 31 января 2025 г.",
+                        "src": "/attach_files/upload_users_files/679a4c4b6c7b2.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-31-yanvarya-2025-g",
+                        "rel": 30190,
+                        "ord": 438
+                    },
+                    {
+                        "id": 22318,
+                        "title": "Изменение расписания 31 января 2025 г (дополнение)",
+                        "src": "/attach_files/upload_users_files/679ba3abe126f.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-31-yanvarya-2025-g-dopolnenie",
+                        "rel": 30190,
+                        "ord": 439
+                    },
+                    {
+                        "id": 22321,
+                        "title": "Расписание занятий с 03.02 по 07.02.2025",
+                        "src": "/attach_files/upload_users_files/679c73783f91c.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-03-02-po-07-02-2025",
+                        "rel": 30190,
+                        "ord": 440
+                    },
+                    {
+                        "id": 22363,
+                        "title": "Расписание занятий с 10.02 по 14.02.2025",
+                        "src": "/attach_files/upload_users_files/67a5048d8d70c.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-10-02-po-14-02-2025",
+                        "rel": 30190,
+                        "ord": 444
+                    },
+                    {
+                        "id": 22399,
+                        "title": "Расписание занятий с 17.02 по 21.02.2025",
+                        "src": "/attach_files/upload_users_files/67af0bb414932.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-s-17-02-po-21-02-2025",
+                        "rel": 30190,
+                        "ord": 451
+                    },
+                    {
+                        "id": 22411,
+                        "title": "Изменение расписания 20 и 21 февраля 2025 г.",
+                        "src": "/attach_files/upload_users_files/67b484b294b7d.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-20-i-21-fevralya-2025-g",
+                        "rel": 30190,
+                        "ord": 452
+                    }
+                ]
+            },
+            {
+                "id": 1732,
+                "ord": 22,
+                "title": "ОУИТ (УЛ. ГЕНЕРАЛА БЕЛОВА Д.6)",
+                "altName": "ouit-ul-generala-belova-d-6",
+                "pageId": 30190,
+                "folders": [
+                    {
+                        "id": 1849,
+                        "ord": 27,
+                        "title": "АП",
+                        "altName": "ap",
+                        "pageId": 30190,
+                        "folders": [],
+                        "files": [
+                            {
+                                "id": 22024,
+                                "title": "Штыкова С.А. Группа 22АП3-1. Экзамен по МДК.01.01 Технология производства АП и К (вопросы)",
+                                "src": "/attach_files/upload_users_files/6751417162d19.docx",
+                                "ext": "docx",
+                                "altName": "shtyikova-s-a-gruppa-22ap3-1-ekzamen-po-mdk-01-01-tehnologiya-proizvodstva-ap-i-k-voprosyi",
+                                "rel": 30190,
+                                "ord": 414
+                            },
+                            {
+                                "id": 22027,
+                                "title": "Штыков  Группа 22АП3-1 ОП.04 Электронная техника",
+                                "src": "/attach_files/upload_users_files/675141ba3fde2.docx",
+                                "ext": "docx",
+                                "altName": "shtyikov-gruppa-22ap3-1-op-04-elektronnaya-tehnika",
+                                "rel": 30190,
+                                "ord": 415
+                            }
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "id": 20836,
+                        "title": "Расписание занятий групп 1 курса с 17.02 по 21.02.2025",
+                        "src": "/attach_files/upload_users_files/67a9a8cc6a17d.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-1-kursa-s-17-02-po-21-02-2025",
+                        "rel": 30190,
+                        "ord": 1
+                    },
+                    {
+                        "id": 20839,
+                        "title": "Расписание занятий групп 2 курса с 17.02 по 21.02.2025",
+                        "src": "/attach_files/upload_users_files/67a9a8d92c9bd.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-2-kursa-s-17-02-po-21-02-2025",
+                        "rel": 30190,
+                        "ord": 2
+                    },
+                    {
+                        "id": 20842,
+                        "title": "Расписание занятий групп 3 курса с 17.02 по 21.02.2025",
+                        "src": "/attach_files/upload_users_files/67a9a8e395124.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-3-kursa-s-17-02-po-21-02-2025",
+                        "rel": 30190,
+                        "ord": 3
+                    },
+                    {
+                        "id": 20845,
+                        "title": "Расписание занятий групп 4 и 5 курса с 17.02 по 21.02.2025",
+                        "src": "/attach_files/upload_users_files/67a9a8eaced87.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-4-i-5-kursa-s-17-02-po-21-02-2025",
+                        "rel": 30190,
+                        "ord": 4
+                    },
+                    {
+                        "id": 20878,
+                        "title": "Расписание занятий групп 1 курса с 24.02 по 28.02.2025",
+                        "src": "/attach_files/upload_users_files/67b4726d28ddd.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-1-kursa-s-24-02-po-28-02-2025",
+                        "rel": 30190,
+                        "ord": 5
+                    },
+                    {
+                        "id": 20881,
+                        "title": "Расписание занятий групп 2 курса с 24.02 по 28.02.2025",
+                        "src": "/attach_files/upload_users_files/67b38f880c9bb.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-2-kursa-s-24-02-po-28-02-2025",
+                        "rel": 30190,
+                        "ord": 6
+                    },
+                    {
+                        "id": 20884,
+                        "title": "Расписание занятий групп 3 курса с 24.02 по 28.02.2025",
+                        "src": "/attach_files/upload_users_files/67b38f9598235.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-3-kursa-s-24-02-po-28-02-2025",
+                        "rel": 30190,
+                        "ord": 7
+                    },
+                    {
+                        "id": 20887,
+                        "title": "Расписание занятий групп 4 и 5 курса с 24.02 по 28.02.2025",
+                        "src": "/attach_files/upload_users_files/67b38f9ddbaf7.pdf",
+                        "ext": "pdf",
+                        "altName": "raspisanie-zanyatiy-grupp-4-i-5-kursa-s-24-02-po-28-02-2025",
+                        "rel": 30190,
+                        "ord": 8
+                    },
+                    {
+                        "id": 20920,
+                        "title": "Изменение расписания на 04.02.2025",
+                        "src": "/attach_files/upload_users_files/67a0a15332d38.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-04-02-2025",
+                        "rel": 30190,
+                        "ord": 9
+                    },
+                    {
+                        "id": 20935,
+                        "title": "Изменение расписания на 05.02.2025",
+                        "src": "/attach_files/upload_users_files/67a26c2f54bec.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-05-02-2025",
+                        "rel": 30190,
+                        "ord": 10
+                    },
+                    {
+                        "id": 20941,
+                        "title": "Изменение расписания на 10.02.2025",
+                        "src": "/attach_files/upload_users_files/67a89e086cc07.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-10-02-2025",
+                        "rel": 30190,
+                        "ord": 11
+                    },
+                    {
+                        "id": 20944,
+                        "title": "Изменение расписания на 12.02.2025",
+                        "src": "/attach_files/upload_users_files/67ac7d31926e6.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-12-02-2025",
+                        "rel": 30190,
+                        "ord": 12
+                    },
+                    {
+                        "id": 20911,
+                        "title": "Изменение расписания на 14.02.2025",
+                        "src": "/attach_files/upload_users_files/67ad9f4538bff.pdf",
+                        "ext": "pdf",
+                        "altName": "izmenenie-raspisaniya-na-14-02-2025",
+                        "rel": 30190,
+                        "ord": 13
+                    }
+                ]
+            }
+        ],
+        "files": []
+    }
+}
