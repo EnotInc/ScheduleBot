@@ -9,13 +9,13 @@ headers = {
 url = "https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190"
 
 
-def get_link(url, course, week):
+def get_link(course, week):
     s = requests.Session()
-    response = s.get(url=url, headers=headers)
 
+    response = s.get(url=url, headers=headers)
     resp = response.json()
-    try:
-        
+
+    try:        
         req = resp["data"]["folders"][2]['files'][course + 4*week]
         
         altName = req.get('altName')
