@@ -11,7 +11,6 @@ router = Router()
 async def cmd_start(message: Message):
     await message.answer(text="Привет! Этот бот создан для упрощения твоей жинзи в колледже. Для его использования тебе достаточно просто выбрать один из пунктов в меню",reply_markup=kb.main)
 
-
 @router.message(F.text == "Расписание на эту неделю")
 async def get_this_schedule(message: Message):
     await message.answer("Расписание какого курса вам нужно?", reply_markup=kb.course_this)
@@ -25,7 +24,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'second_this')
 async def first_this(callback: CallbackQuery):
@@ -36,7 +35,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'third_this')
 async def first_this(callback: CallbackQuery):
@@ -47,7 +46,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'last_this')
 async def first_this(callback: CallbackQuery):
@@ -58,7 +57,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 
 
@@ -75,7 +74,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except: 
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'second_next')
 async def first_this(callback: CallbackQuery):
@@ -86,7 +85,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'third_next')
 async def first_this(callback: CallbackQuery):
@@ -97,7 +96,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 @router.callback_query(F.data == 'last_next')
 async def first_this(callback: CallbackQuery):
@@ -108,7 +107,7 @@ async def first_this(callback: CallbackQuery):
         await callback.message.delete()
         await callback.message.answer_document(link)
     except:
-        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Присим прощения")
+        await callback.message.answer("Что-то пошло не так и нам не удалось найти рассписание. Просим прощения")
 
 
 @router.message(Command('help'))
