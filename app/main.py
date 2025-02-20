@@ -1,12 +1,16 @@
 import requests
+import os
 from datetime import datetime, date
+from dotenv import load_dotenv
+
+load_dotenv()
 
 headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0"
 }
 
-url = "https://collegetsaritsyno.mskobr.ru/v1/api/folder_and_file/list/30190"
+url = os.getenv('URL')
 
 
 def get_link(course, week):
@@ -20,7 +24,7 @@ def get_link(course, week):
         
         altName = req.get('altName')
         title = req.get('title')
-        link = "https://collegetsaritsyno.mskobr.ru"+req.get('src')
+        link = os.getenv("LINK")+req.get('src')
 
         if altName[:10] == 'raspisanie':
             date_diff = get_date_diff(title[-10:])
